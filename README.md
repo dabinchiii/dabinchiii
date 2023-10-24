@@ -4,7 +4,7 @@
 
 ### Hi there 👋👋👋
 
-  <a href="https://github.com/dabinchiii">
+  <a href="https://solved.ac/profile/dabinchi38">
     <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dabinchi38" alt="Solved.ac Profile" />
   </a>
 
@@ -12,7 +12,7 @@
 
 
 <div>
-<a href="https://solved.ac/profile/dabinchi38"><img align="right" src="https://github-readme-stats.vercel.app/api?username=dabinchiii&show_icons=true&theme=shadow_green"/></a>
+<a href="https://github.com/dabinchiii"><img align="right" src="https://github-readme-stats.vercel.app/api?username=dabinchiii&show_icons=true&theme=shadow_green"/></a>
 
 <span>
 <p>
