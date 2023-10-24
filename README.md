@@ -12,7 +12,7 @@
 
 
 <div>
-<a href=""><img align="right" src="https://github-readme-stats.vercel.app/api?username=dabinchiii&show_icons=true&theme=shadow_green"/></a>
+<a href="https://solved.ac/profile/dabinchi38"><img align="right" src="https://github-readme-stats.vercel.app/api?username=dabinchiii&show_icons=true&theme=shadow_green"/></a>
 
 <span>
 <p>
