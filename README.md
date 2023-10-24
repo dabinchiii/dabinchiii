@@ -4,7 +4,9 @@
 
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?&style=for-the-badge&logo=tailwind%20css&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api?username=dabinchiii&show_icons=true&theme=shadow-green">
+<img src="https://github-readme-stats.vercel.app/api?username=dabinchiii&show_icons=true&theme=shadow_green">
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dabinchi38)](https://solved.ac/dabinchi38/)
 
 <!--
 **dabinchiii/dabinchiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
