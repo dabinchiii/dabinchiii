@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![javascript](https://img.shields.io/badge/javascript-#F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=Black)
 <!--
 **dabinchiii/dabinchiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
