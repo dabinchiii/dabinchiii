@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img align="right" width="90" src="https://github.com/dabinchiii/dabinchiii/assets/81626630/61b237d8-e7ee-414a-a9de-71d11c26fa76" alt="농담곰ㅎㅎ" />
+
 
 ### Hi there 👋👋👋
 
